@@ -11,5 +11,8 @@ A python Tkinter project
 
 The main screen isn't totally finished
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/screen1.png)
+
+![App Screenshot](img/screen2.png)
+
 
